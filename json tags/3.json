@@ -1,0 +1,194 @@
+{
+    "elements": [
+        {
+            "type": "element",
+            "name": "annotation",
+            "elements": [
+                {
+                    "type": "element",
+                    "name": "folder",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "text": "data"
+                        }
+                    ]
+                },
+                {
+                    "type": "element",
+                    "name": "filename",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "text": "pic3"
+                        }
+                    ]
+                },
+                {
+                    "type": "element",
+                    "name": "path",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "text": "C:/Users/HP/Desktop/sample/data/pic3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "type": "element",
+                    "name": "source",
+                    "elements": [
+                        {
+                            "type": "element",
+                            "name": "database",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Unknown"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "element",
+                    "name": "size",
+                    "elements": [
+                        {
+                            "type": "element",
+                            "name": "width",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "307"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "height",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "164"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "depth",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "element",
+                    "name": "segmented",
+                    "elements": [
+                        {
+                            "type": "text",
+                            "text": "0"
+                        }
+                    ]
+                },
+                {
+                    "type": "element",
+                    "name": "object",
+                    "elements": [
+                        {
+                            "type": "element",
+                            "name": "name",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Angry"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "pose",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Unspecified"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "truncated",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "difficult",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "bndbox",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "xmin",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "45"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "ymin",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "4"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "xmax",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "270"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "ymax",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "163"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

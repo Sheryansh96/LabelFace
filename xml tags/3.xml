@@ -1,0 +1,26 @@
+<annotation>
+  <folder>data</folder>
+  <filename>pic3</filename>
+  <path>C:/Users/HP/Desktop/sample/data/pic3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>307</width>
+    <height>164</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Angry</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>45</xmin>
+      <ymin>4</ymin>
+      <xmax>270</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+</annotation>
